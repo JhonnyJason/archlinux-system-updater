@@ -2,8 +2,8 @@
 Description=weekly systemupdates on tuesday @4AM
 
 [Timer]
-OnCalendar=Tue *-*-* 4:00:00
-RandomizedDelaySec=1h
+OnCalendar=Tue *-*-* 3:00:00
+RandomizedDelaySec=2h
 Persistent=true
 
 [Install]
