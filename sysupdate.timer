@@ -1,5 +1,5 @@
 [Unit]
-Description=weekly systemupdates on tuesday @4AM
+Description=weekly systemupdates on tuesday @~3AM
 
 [Timer]
 OnCalendar=Tue *-*-* 3:00:00
